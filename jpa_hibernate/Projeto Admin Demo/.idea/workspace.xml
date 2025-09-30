@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb568f8b-d7e2-42fe-92d7-bc0b56187ace" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore.bkp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database_admin.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_schema_database_admin.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/AdministrativoApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/PessoaModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/ProdutoModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="33HQS8Erimmequ2ePkRgUc8Fay4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AdministrativoApp.executor": "Debug",
+    "Maven.administrativo-api [clean].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/vjunior/Documents/git/ZerdaxBradescoHolberton/bradesco-hbtn-DB/jpa_hibernate/Projeto Admin Demo/src/main/java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="models" />
+      <recent name="entities" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="AdministrativoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.AdministrativoApp" />
+      <module name="administrativo-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AdministrativoApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb568f8b-d7e2-42fe-92d7-bc0b56187ace" name="Changes" comment="" />
+      <created>1759240653008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759240653008</updated>
+    </task>
+    <servers />
+  </component>
+</project>
